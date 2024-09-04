@@ -109,7 +109,6 @@ Partial Class Form1
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
-        MessageBox.Show("Date: May 30, 2017\nLocation: Ryan Park\nStart Time: 8:00 AM\nFor more information, view the Fall Marathon Facebook page.")
 
     End Sub
 
